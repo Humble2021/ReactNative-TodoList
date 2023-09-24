@@ -38,7 +38,7 @@ Follow the instructions below to get this React Native Todo List App up and runn
 
 ### Installation
 
--Clone this repository to your local machine:
+ - Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/ReactNative-TodoList.git
@@ -56,25 +56,26 @@ cd react-native-todo-list
 npm install
 ```
 
-#Usage
-To run the app on your local development server, use the following command:
+### Usage
+- To run the app on your local development server, use the following command:
 
 ```bash
 expo start
 ```
 
-This will start the Expo development server, and you can access the app through the Expo Go app on your mobile device or an emulator.
+- This will start the Expo development server, and you can access the app through the Expo Go app on your mobile device or an emulator.
 
-Feel free to explore the code and customize the app to your liking. You can make changes to the styling, add new features, or integrate it with backend services for more advanced functionality.
+- Feel free to explore the code and customize the app to your liking. You can make changes to the styling, add new features, or integrate it with backend services for more advanced functionality.
 
 ### Contributing
-If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository on GitHub.
-Create a new branch for your feature or bug fix.
-Make your changes and ensure the code is well-documented.
-Test your changes thoroughly.
-Create a pull request and describe your changes in detail.
+- If you'd like to contribute to this project, please follow these guidelines:
+
+- Fork the repository on GitHub.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure the code is well-documented.
+- Test your changes thoroughly.
+- Create a pull request and describe your changes in detail.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ - This project is licensed under the MIT License - see the LICENSE file for details.
