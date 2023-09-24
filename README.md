@@ -39,20 +39,24 @@ Follow the instructions below to get this React Native Todo List App up and runn
 
 -Clone this repository to your local machine:
 
+```bash
 git clone https://github.com/your-username/ReactNative-TodoList.git
 
 
 ### Navigate to the project directory:
 
+```bash
 cd react-native-todo-list
 
 ### Install project dependencies:
 
+```bash
 npm install
 
 -Usage
 ### To run the app on your local development server, use the following command:
 
+```bash
 expo start
 
 This will start the Expo development server, and you can access the app through the Expo Go app on your mobile device or an emulator.
