@@ -79,3 +79,9 @@ expo start
 
 ### License
  - This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+### Video
+
+https://github.com/Humble2021/ReactNative-TodoList/assets/120665297/e5a01cbf-99dc-49b4-9ce9-386e0c4e065c
+
